@@ -1,4 +1,4 @@
-FROM nfcore/base:1.10.2
+FROM nfcore/base:1.11
 LABEL authors="Qi Zhao, Yu Sun, Zhixiang Zuo" \
       description="Docker image containing all software requirements for the nf-core/lncpipe pipeline"
 
