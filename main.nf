@@ -4,7 +4,7 @@
     nf-core/lncpipe
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Github : https://github.com/nf-core/lncpipe
-    Website: https://nf-co.re/lncpipe
+Website: https://nf-co.re/lncpipe
     Slack  : https://nfcore.slack.com/channels/lncpipe
 ----------------------------------------------------------------------------------------
 */
